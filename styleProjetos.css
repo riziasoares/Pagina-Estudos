@@ -1,0 +1,88 @@
+header {
+    padding: 10px 0;
+    background: #808080;
+}
+.caixaCabecalho {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 90px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: Verdana;
+    margin-right: 25px;
+}
+
+nav a:hover {
+    color: #D2691E;
+    text-decoration: underline;
+}
+
+.tituloProjeto1 {
+    font-size: 20px;
+	font-family: Verdana;
+	margin: 0;
+	margin-bottom: 15px;
+    text-transform: uppercase;
+    color: #696969;
+}
+
+.caixaProjeto1 {
+    background: white;
+	padding: 25px;
+	border: 3px solid #696969;
+	margin: 15px;
+	border-radius: 50px;
+}
+
+.imagemProjeto1 {
+    margin-bottom: 15px;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.dadosProjetos {
+    font-family: verdana;
+    text-transform: uppercase;
+    font-style: bold;
+    color: #696969;
+}
+
+.textoProjeto1 {
+    font-family: Arial;
+    color: #222222;
+}
+
+footer {
+    text-align: center;
+    padding: 5px 0 0;
+}
+
+.imagemCopyright {
+    width: 100px;
+    padding: auto;
+}
+
+.copyright {
+    color: #696969;
+    font-size: 13px;
+    margin: 0;
+    text-align: center;
+    font-family: Arial;
+}
