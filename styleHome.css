@@ -4,7 +4,7 @@ header {
 }
 .caixaCabecalho {
     position: relative;
-    width: 940px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -26,6 +26,7 @@ nav a {
     font-size: 22px;
     text-decoration: none;
     font-family: Verdana;
+    margin-right: 25px;
 }
 
 nav a:hover {
