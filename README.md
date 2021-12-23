@@ -1,2 +1,3 @@
-# Pagina-Estudos
-Página estudo dos projetos em HTML e CSS
+# Página de Estudos
+
+Página criada para ser desenvolvida conforme evolução nos estudo de HTML e CSS.
